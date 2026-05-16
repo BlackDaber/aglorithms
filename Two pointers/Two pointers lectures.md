@@ -26,4 +26,4 @@ for (let fast = 0; fast < nums.length; fast++) {
     }
 }
 
-![[Pasted image 20260429183225.png]]
+![image](img/Pasted%20image%2020260429183225.png)
