@@ -2,7 +2,7 @@ Fixed window (фиксированный размер) (window size = k)
 	Ключевая проблема придумать верную формулу перехода
 
 
-![[Pasted image 20260510224842.png]]
+![image](img/Pasted%20image%2020260510224842.png)
 
 
-![[Pasted image 20260510225052.png]]
+![image](img/Pasted%20image%2020260510225052.png)
